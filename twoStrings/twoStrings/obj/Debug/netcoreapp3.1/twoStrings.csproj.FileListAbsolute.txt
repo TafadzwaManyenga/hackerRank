@@ -1,0 +1,12 @@
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/bin/Debug/netcoreapp3.1/twoStrings.deps.json
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/bin/Debug/netcoreapp3.1/twoStrings.runtimeconfig.json
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/bin/Debug/netcoreapp3.1/twoStrings.runtimeconfig.dev.json
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/bin/Debug/netcoreapp3.1/twoStrings.dll
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/bin/Debug/netcoreapp3.1/twoStrings.pdb
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.csproj.AssemblyReference.cache
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.AssemblyInfoInputs.cache
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.AssemblyInfo.cs
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.csproj.CoreCompileInputs.cache
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.dll
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.pdb
+/Users/tafadzwamanyenga/Projects/twoStrings/twoStrings/obj/Debug/netcoreapp3.1/twoStrings.genruntimeconfig.cache
